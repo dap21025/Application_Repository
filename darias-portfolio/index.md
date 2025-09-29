@@ -13,9 +13,3 @@ I have had the priveledge of gaining hands-on, real world experience through an 
 Mechanical Design: Autodesk, AutoCAD, ANSYS, Abaqus
 Programming: Python, MATLAB, Simulink
 Manufacturing: CNC, 3D Printing, Laser cutting
-
-### Contact Information
-Email: dasha.potapov456@gmail.com
-📞 Phone: (703) 303-1508
-📍 Location: Herndon, VA
-
