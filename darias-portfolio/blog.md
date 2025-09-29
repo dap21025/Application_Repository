@@ -2,6 +2,7 @@
 
 [Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [Contact](contact.md)
 
+
 ## Daria's Blog Homepage
 Welcome to my blog! Check out my posts by clicking the links below.
 
