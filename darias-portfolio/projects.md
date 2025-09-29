@@ -1,5 +1,7 @@
 # Daria Potapov's Professional Portfolio
 
+[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [Contact](contact.md)
+
 ## Projects
 
 As an undergraduate at the University of Connecticut, I've had the priveledge to work with peers and sponsors on several 
