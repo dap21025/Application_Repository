@@ -1,6 +1,8 @@
-# Daria Potapov's Portfolio
+# Daria Potapov's Professional Portfolio
 
-My name is Daria Potapov. I am a senior at the University of Connecticut (UConn), majoring in Mechanical Engineering and graduating in the Spring of 2026. 
+[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [Contact](contact.md)
+
+Welcome! My name is Daria Potapov. I am a senior at the University of Connecticut (UConn), majoring in Mechanical Engineering and graduating in the Spring of 2026. 
 
 ## About Me
 
