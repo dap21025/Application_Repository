@@ -1,3 +1,8 @@
+# Daria Potapov's Professional Portfolio
+
+[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [Contact](contact.md)
+
+---
 Though I'm still in the very early stages of my Senior Design project, I thought I'd share some updates and thoughts here.
 
 I just completed my first self-assessment for this project. Though these projects all seem like large undertakings, the course structure
