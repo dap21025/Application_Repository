@@ -8,4 +8,5 @@ Welcome to my blog! Check out my posts by clicking the links below.
 
 [My First Post](2025-09-28-my-first-post.md) - **09/28/2025**
 
+[Senior Design Updates](2025-09-29-senior-design-updates.md) - **09/29/2025**
 ###### Check back later for more posts!
