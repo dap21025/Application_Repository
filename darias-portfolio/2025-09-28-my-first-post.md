@@ -1,6 +1,6 @@
 # Daria Potapov's Professional Portfolio
 
-[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) [Contact](contact.md)
+[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [Contact](contact.md)
 
 ---
 ## My First Post!
