@@ -14,10 +14,6 @@ Mechanical Design: Autodesk, AutoCAD, ANSYS, Abaqus
 Programming: Python, MATLAB, Simulink
 Manufacturing: CNC, 3D Printing, Laser cutting
 
-### Projects
-##### Senior Design Project: 
-Developed a new underwater host which includes a small payload section which is capable of housing and deploying a small payload in an underwater/submerged environment.
-
 ### Contact Information
 Email: dasha.potapov456@gmail.com
 📞 Phone: (703) 303-1508
